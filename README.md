@@ -13,7 +13,8 @@ for the 3d printed parts i could use PETG.
 <img width="2156" height="1300" alt="A8ECA3C1-E2F6-4CF0-9F6A-0C8B021CD3ED" src="https://github.com/user-attachments/assets/93a092b7-6ecf-42c5-a5f1-2c9032513dc4" />
 This 3d display shows all the parts. and 3d models in a simple form to show how everything will fit in.
 
-![Uploading A8ECA3C1-E2F6-4CF0-9F6A-0C8B021CD3ED.png…]()
-shows all the wiring
+<img width="2156" height="1300" alt="A8ECA3C1-E2F6-4CF0-9F6A-0C8B021CD3ED" src="https://github.com/user-attachments/assets/4cbd572f-daee-47df-a373-e8e0d6335a5f" />
+
+shows all the wiring.
 
 
