@@ -1,1 +1,19 @@
-<img width="1970" height="1554" alt="image" src="https://github.com/user-attachments/assets/bbac2e04-bd20-4fe0-b418-1d672d387424" />
+<img width="1054" height="606" alt="image" src="https://github.com/user-attachments/assets/e7c0ebe0-b6e0-4396-9548-76019c682b16" />
+
+This is a Spotify E-Paper Display uses a Raspberry Pi Zero 2 W to fetch and show current track information on a compact,  since it is e ink it consumes or low power. It is build inside a 3d printed case.  
+
+currently it is required for it to be plugged in to work, however i will also soon release a version which can work on AA battries.
+
+you can either build this with a black and white E-ink display or a color E-ink display.
+Check BOM.csv For all parts and their links.
+
+
+for the 3d printed parts i could use PETG.
+
+<img width="2156" height="1300" alt="A8ECA3C1-E2F6-4CF0-9F6A-0C8B021CD3ED" src="https://github.com/user-attachments/assets/93a092b7-6ecf-42c5-a5f1-2c9032513dc4" />
+This 3d display shows all the parts. and 3d models in a simple form to show how everything will fit in.
+
+![Uploading A8ECA3C1-E2F6-4CF0-9F6A-0C8B021CD3ED.png…]()
+shows all the wiring
+
+
