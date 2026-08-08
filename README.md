@@ -17,6 +17,11 @@ you can either build this with a black and white E-ink display or a color E-ink 
 Check BOM.csv For all parts and their links.
 
 
+# How it Works?
+
+Apart from the electrical components, the project essentially works by using the Spotify Web API to communicate with the Raspberry Pi. The API allows the Pi to access information about the music currently being played on a user's Spotify account, such as the song title, artist, album, and album artwork.
+
+
 # 3D parts rendering
 
 <img width="2156" height="1300" alt="A8ECA3C1-E2F6-4CF0-9F6A-0C8B021CD3ED" src="https://github.com/user-attachments/assets/93a092b7-6ecf-42c5-a5f1-2c9032513dc4" />
@@ -30,7 +35,8 @@ For the 3d printed parts I used PETG
 <img width="2482" height="1040" alt="image" src="https://github.com/user-attachments/assets/fb03c609-faa2-438e-acd3-8d4c714c4817" />
 
 The 5V adapter will be connected to the Raspberry Pi Zero 2, which will act as our main power supply.
-The sd card will be inserted into the raspberry Pi.
+
+The sd card will be inserted into the raspberry Pi, the sd card will tell the pi what to display.
 
 the display needs power and the pi can provide 3.3Vs, along with the GND(ground) and the SPI signals which will all be connected to the adapter board. 
 and from the adapter board using the FPC cable you will connect to the screen.
