@@ -1,4 +1,4 @@
-#H1 Spotify E ink Desk Display 
+#  Spotify E ink Desk Display 
 <img width="1054" height="606" alt="image" src="https://github.com/user-attachments/assets/e7c0ebe0-b6e0-4396-9548-76019c682b16" />
 
 This is a Spotify E-Paper Display uses a Raspberry Pi Zero 2 W to fetch and show current track information on a compact,  since it is e ink it consumes or low power. It is build inside a 3d printed case.  
